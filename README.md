@@ -33,7 +33,7 @@ Change the variable 'payload' to your desired payload
   - Kali Linux Mate
   - Windows 10
   - Windows 7
-  - Ubuntu 20.2
+  - Ubuntu 20.1
 
 ----------------------------------------------------------------------------------
 
