@@ -35,8 +35,3 @@ Change the variable 'payload' to your desired payload
   - Windows 7
   - Ubuntu 20.1
 
-----------------------------------------------------------------------------------
-
-# Example
-
-![Example](https://i.imgur.com/CYeopPK.png)
