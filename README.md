@@ -19,7 +19,7 @@ Change the variable 'payload' to your desired payload
 # TODO
 
 - [x] Release Main Code
-- [ ] Add Threading
+- [X] Add Threading
 - [x] Add Payload Input
 - [x] Make Error Outputs
 - [x] Make Time Logs
